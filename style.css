@@ -1,3 +1,19 @@
-.brand{
-    padding-top: 5px;
+
+.navbar-brand {
+  font-weight: bolder;
+}
+
+.card {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container-footer {
+  height: 800px;
+  background-color: #6070ff;
+}
+
+form {
+  width: 40%;
+  margin: 0 auto;
 }
